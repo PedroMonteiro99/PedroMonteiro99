@@ -1,3 +1,5 @@
+<h4 align="center">
+
 ## ABOUT ME
 
 ### Hello! My name is Pedro 😎
