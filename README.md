@@ -6,7 +6,7 @@
 
 - 🔭 Backend Developer with some Frontend Skills
 - 🌱 Currently trying to improve my frontend and backend skills
-- 🏹 Focus for 2022: Blazor and React
+- 🏹 Focus for 2023: Blazor and Next.JS
 
 ## STATS 🚀
 
