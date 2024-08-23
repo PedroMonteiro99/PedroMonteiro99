@@ -1,9 +1,9 @@
 <h1 align="center">Hello! My name is Pedro Monteiro 😎</h1>
-<h3 align="center">An hard working Backend Developer, which is interested in improving his frontend skills</h3>
+<h3 align="center">A hard-working Backend Developer, who is interested in improving his frontend skills</h3>
 
 - 🔭 Backend Developer with some Frontend Skills
 - 🌱 Currently trying to improve my frontend and backend skills
-- 🏹 Focus for 2023: Blazor and Next.JS
+- 🏹 Focus for 2025: Blazor and Next.JS
 
 ## STATS 🚀
 
